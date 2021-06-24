@@ -1,0 +1,2 @@
+# Detector-de-Fake-News-BR
+A internet forneceu às fake news tanta força quanto às informações reais que são divulgadas. A produção em massa de fake news se tornou um problema relevante, meios de comunicação como jornais e revistas desenvolveram equipes especializadas para averiguar a procedência de informações. A pesquisa apresentada neste artigo utiliza técnicas de processamento de linguagem natural, Data Augmentation e Redes neurais profundas para a criação de um classificador de fake news em português brasileiro.
