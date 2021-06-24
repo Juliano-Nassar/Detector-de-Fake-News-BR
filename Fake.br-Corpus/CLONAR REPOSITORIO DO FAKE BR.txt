@@ -1,0 +1,2 @@
+Clone o Fake.BR e substitua esta pasta
+pelos pelo repositório original
